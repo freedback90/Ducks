@@ -1,2 +1,2 @@
 # Ducks
-Learnig Purpose C++ Repo
+C++ Repo For Learnig Purpose
